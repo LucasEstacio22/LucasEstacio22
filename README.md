@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Guimarães;I'm+25+years+old;I'm+from+Brazil;I'm+studying+Information+Sistems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-![Lucas Guimarães's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasEstacio22&show_icons=true&theme=dark)         
+![Lucas Guimarães's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasEstacio22&show_icons=true&theme=dark)   
+
+
 
 
 
